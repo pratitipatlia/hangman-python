@@ -14,12 +14,12 @@ A Hangman game built with Python's Tkinter library. This version uses Object-Ori
    ```bash
    python main.py
 
-Project Structure
-main.py: The core application class and GUI logic.
-words.json: The dictionary of words categorized by theme.
-README.md: Project documentation.
+Project Structure<br>
+main.py: The core application class and GUI logic. <br>
+words.json: The dictionary of words categorized by theme.<br>
+README.md: Project documentation.<br>
 
-What I Learned
-Implementing Object-Oriented Programming in Python.
-Managing File I/O with JSON to separate data from logic.
-Customizing Tkinter Canvas and widget styling for a unique UI.
+What I Learned <br>
+Implementing Object-Oriented Programming in Python. <br>
+Managing File I/O with JSON to separate data from logic. <br>
+Customizing Tkinter Canvas and widget styling for a unique UI. 
